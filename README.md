@@ -2,10 +2,13 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-  python - CNN, GAN, CP-VTON, Djanggo, NFT API
-  nodejs - NFT, restapi
+python - CNN, GAN, CP-VTON, Djanggo, NFT API
+nodejs - NFT, restapi
+
+
+
+
 
 
 <!---
