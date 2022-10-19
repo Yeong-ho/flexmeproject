@@ -1,0 +1,24 @@
+2022-10-15 09:54:32,905 - INFO - Will watch for changes in these directories: ['/home/ubuntu/src/restapi']
+2022-10-15 09:54:32,906 - INFO - Uvicorn running on http://0.0.0.0:6000 (Press CTRL+C to quit)
+2022-10-15 09:54:32,906 - INFO - Started reloader process [25397] using StatReload
+2022-10-15 09:54:33,351 - INFO - Started server process [25400]
+2022-10-15 09:54:33,352 - INFO - Waiting for application startup.
+2022-10-15 09:54:33,355 - WARNING -  * Debugger is active!
+2022-10-15 09:54:33,355 - INFO -  * Debugger PIN: 349-670-446
+2022-10-15 09:54:33,355 - INFO - ASGI 'lifespan' protocol appears unsupported.
+2022-10-15 09:54:33,356 - INFO - Application startup complete.
+2022-10-15 09:54:53,766 - INFO - submit
+ ImmutableMultiDict([('data', '{\n      "name": "flex_nft9999700",\n      "id": "9999700",\n      "wallet": "0xF84ae1Bdd0a7b18d71c470C4d032d8E68bb32Cb2",\n\t\t\t"uid": 0,\n      "metadata": {\n        "help": "010-2222-3333",\n        "time": "2022",\n        "makein": "developer"\n\t\t\t}\n}')])
+2022-10-15 09:54:53,766 - INFO - nftname:flex_nft9999700 {'code': 1, 'msg': 'Make jsonfile Error'}
+2022-10-17 10:26:04,462 - INFO - submit
+ ImmutableMultiDict([('data', '{\n      "name": "flex_nft9999700",\n      "id": "9999700",\n      "wallet": "0xF84ae1Bdd0a7b18d71c470C4d032d8E68bb32Cb2",\n\t\t\t"uid": 0,\n      "metadata": {\n        "help": "010-2222-3333",\n        "time": "2022",\n        "makein": "developer"\n\t\t\t}\n}')])
+2022-10-17 10:26:04,462 - INFO - nftname:flex_nft9999700 {'code': 1, 'msg': 'Make jsonfile Error'}
+2022-10-17 10:26:10,263 - INFO - selectwallet 
+username:김경호 0x61597178beacbc844093761251eea846af56ae08
+2022-10-17 10:26:19,480 - INFO - getnfts 
+uid:92 {'list': [{'name': 'flexme_NFT_247_170', 'image': 'https://metadata-store.klaytnapi.com/7d1b862d-2505-d329-772f-3fae275138de/88e88c92-b4a3-0724-8ff3-e07a59db7498.png', 'description': 'This is a flexme NFT Token', 'token_id': 170, 'data': {'help': '', 'time': '1665469110533'}, 'transactionhash': '0x3eb46d91207b300edb49d09302bac128cb87208d40b979ca7e52ced945688674'}, {'name': 'flexme_NFT_247_166', 'image': 'https://metadata-store.klaytnapi.com/7d1b862d-2505-d329-772f-3fae275138de/41b3080d-6f60-2bcc-9cea-198263469835.png', 'description': 'This is a flexme NFT Token', 'token_id': 166, 'data': {'help': '', 'time': '1665467343282'}, 'transactionhash': '0x87ddedca3e903e45ddcf64076bbd17d36b948e55be951a540f687ff5560659a1'}]}
+2022-10-17 10:43:51,876 - INFO - selectwallet 
+username:김경호 0x61597178beacbc844093761251eea846af56ae08
+2022-10-17 10:43:56,834 - INFO - submit
+ ImmutableMultiDict([('data', '{\n      "name": "flex_nft9999700",\n      "id": "9999700",\n      "wallet": "0xF84ae1Bdd0a7b18d71c470C4d032d8E68bb32Cb2",\n\t\t\t"uid": 0,\n      "metadata": {\n        "help": "010-2222-3333",\n        "time": "2022",\n        "makein": "developer"\n\t\t\t}\n}')])
+2022-10-17 10:43:56,834 - INFO - nftname:flex_nft9999700 {'code': 1, 'msg': 'Make jsonfile Error'}
