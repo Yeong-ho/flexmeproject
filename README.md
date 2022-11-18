@@ -1,19 +1,11 @@
-- 👋 Hi, I’m @Yeong-ho
-- 👀 I’m interested in ...
 
-- 🌱 I’m currently learning ...
+기업부설연구소 연구원재직
 
-- 💞️ I’m looking to collaborate on ...
+-AI 및 Blockchain 서비스 연구 및 개발
 
+- source
 python - CNN, GAN, CP-VTON, Djanggo, NFT API
 
-nodejs - NFT, restapi
+nodejs - NFT miniting api, restapi
 
 
-
-
-
-<!---
-Yeong-ho/Yeong-ho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
