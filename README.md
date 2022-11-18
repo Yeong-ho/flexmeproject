@@ -7,6 +7,6 @@
 
 python - CNN, GAN, CP-VTON, Djanggo, NFT API
 
-nodejs - NFT miniting api, restapi
+nodejs - NFT minting api, restapi
 
 
